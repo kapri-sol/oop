@@ -1,5 +1,3 @@
-async function start() {
-  console.log('start');
-}
+import { open } from './solid/srp/snippet';
 
-start();
+open();
